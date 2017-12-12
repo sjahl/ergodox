@@ -79,8 +79,8 @@ KB_MATRIX_LAYER(
 	KEY_LeftBracket_LeftBrace,	KEY_y_Y,	KEY_u_U,	KEY_i_I,	KEY_o_O,	KEY_p_P,	KEY_RightBracket_RightBrace,	
 	KEY_h_H,	KEY_j_J,	KEY_k_K,	KEY_l_L,	KEY_Semicolon_Colon,	KEY_SingleQuote_DoubleQuote,	
 	KEY_Dash_Underscore,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_RightShift,	
-	KEY_RightGUI,	KEY_UpArrow,	KEY_DownArrow,	KEY_GraveAccent_Tilde,	0,	
-	KEY_RightAlt,	KEY_RightControl,	
+	KEY_RightControl,	KEY_UpArrow,	KEY_DownArrow,	KEY_GraveAccent_Tilde,	0,	
+	KEY_RightAlt,	KEY_RightGUI,	
 	KEY_PageUp,	0,	0,	
 	KEY_PageDown,	KEY_ReturnEnter,	KEY_Spacebar	
 ),
